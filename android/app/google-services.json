@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144792251921",
+    "project_id": "seguridad-vial-app",
+    "storage_bucket": "seguridad-vial-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144792251921:android:b363160fdfbe6017660bb0",
+        "android_client_info": {
+          "package_name": "com.examp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxdcIr9tqlw_0p41OGPXXSGUBKJ5s_D_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144792251921:android:53ecc5801c4b892f660bb0",
+        "android_client_info": {
+          "package_name": "com.example.seguridad_vial_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxdcIr9tqlw_0p41OGPXXSGUBKJ5s_D_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
